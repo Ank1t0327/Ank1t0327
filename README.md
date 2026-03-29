@@ -21,7 +21,6 @@ Builder of tools, breaker of systems
 - Recon: Subdomain Enumeration • OSINT • Target Mapping
 - Web Exploit: IDOR • Auth Bypass • Logic Flaws
 - Tools: Python • Bash • Kali Linux
-- Mindset: Think like attacker, act like defender
 
 ### 🔥 Active Project
 
@@ -29,11 +28,11 @@ Builder of tools, breaker of systems
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ank1t0327&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Ank1t0327&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ank1t0327&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ank1t0327&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -51,11 +50,20 @@ Builder of tools, breaker of systems
 
 ## 🛠️ Tools I Use
 
+- Python
+- Bash
+- Linux
+- Git
+- GitHub
+- VS Code
+- Nmap
+- Subfinder
+- Kali Linux
+
 ![Tech Icons](https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode)
 
 ---
 
-## ☠️ Philosophy
 
 > "Attack surface is just opportunity waiting to be mapped."
 
@@ -64,4 +72,6 @@ Builder of tools, breaker of systems
 ## 📡 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-Active-black?style=for-the-badge&logo=github)](https://github.com/Ank1t0327)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankit0327/)
 
