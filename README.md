@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 ```bash
 > whoami
@@ -16,19 +16,19 @@ Bug Bounty Hunter in Progress
 Builder of tools, breaker of systems
 ```
 
-### ⚔️ Tech Arsenal
+###  Tech Arsenal
 
 - Recon: Subdomain Enumeration • OSINT • Target Mapping
 - Web Exploit: IDOR • Auth Bypass • Logic Flaws
 - Tools: Python • Bash • Kali Linux
 
-### 🔥 Active Project
+###  Active Project
 
 - **Vulnrank** — Recon scoring engine that ranks targets by risk & exposure.
 
 ---
 
-## 📊 Metrics
+## GitHub Status
 
 ![](https://github-readme-stats.vercel.app/api?username=Ank1t0327&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -36,19 +36,19 @@ Builder of tools, breaker of systems
 
 ---
 
-## 🧬 Activity Graph
+##  Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ank1t0327&theme=react-dark)
 
 ---
 
-## 🎯 Current Mission
+##  Current Mission
 
 - [x] Mastering Web Exploitation
 - [x] Building Recon Frameworks
 - [x] Hunting Real-World Vulnerabilities
 
-## 🛠️ Tools I Use
+##  Tools I Use
 
 - Python
 - Bash
