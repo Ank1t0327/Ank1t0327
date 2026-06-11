@@ -1,12 +1,18 @@
-# ⚔️ Patch.exe
-
+# 🚀 Patch.exe – Cyber Playground
+![Cyber Playground Header](https://readme-typing-svg.herokuapp.com?color=F81CE5&background=000000&width=500&lines=Cyber+Playground)
 ![Cybersecurity Enthusiast](https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&lines=Cybersecurity+Enthusiast;Bug+Bounty+Hunter;Building+Vulnrank;Recon+%7C+Exploitation+%7C+Automation)
 
 > Recon • Exploit • Automate • Repeat
 
 ---
 
+## 🌐 Cyber Playground
+
+> Dive into the world of cyber security with a playful twist!
+---
+
 ##  About Me
+
 
 ```bash
 > whoami
@@ -27,6 +33,11 @@ Builder of tools, breaker of systems
 - **Vulnrank** — Recon scoring engine that ranks targets by risk & exposure.
 
 ---
+
+## 🚀 Projects Showcase
+
+- **[Vulnrank]** — Recon scoring engine (📂 [GitHub](https://github.com/Ank1t0327/Vulnrank))
+- **[Mirrorix]** — Phone mirroring tool (📂 [GitHub](https://github.com/Ank1t0327/Mirrorix))
 
 ## GitHub Status
 
@@ -65,7 +76,9 @@ Builder of tools, breaker of systems
 ---
 
 
-> "Attack surface is just opportunity waiting to be mapped."
+> "Attack surface is just an opportunity waiting to be mapped."
+
+*— Stay curious, stay safe*
 
 ---
 
