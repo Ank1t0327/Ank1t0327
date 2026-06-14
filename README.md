@@ -87,9 +87,9 @@ I am a builder at heart and a breaker by trade. My focus lies at the intersectio
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ank1t0327&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=C9D1D9" alt="Top Languages" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800" />
