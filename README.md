@@ -1,11 +1,13 @@
 <div align="center">
 
-# ⚡ Ankit (Patch)
-**Cybersecurity Engineer • Linux Power User • Builder**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF99&height=180&section=header&text=PATCH.SYS&fontSize=60&fontColor=0D1117&fontAlignY=38&desc=Cybersecurity%20Engineer%20%E2%80%A2%20Linux%20Power%20User%20%E2%80%A2%20Builder&descAlignY=58&descSize=18&descColor=0D1117&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Initializing+Patch.exe...;Cybersecurity+Specialist+%26+Student;Builder+of+Secure+Systems;Automating+the+Mundane;Hunting+Vulnerabilities;" alt="Typing SVG" /></a>
 
 *Architecting digital defenses and engineering the future.*
+
+<img src="https://komarev.com/ghpvc/?username=Ank1t0327&label=PROFILE+VIEWS&color=00FF99&style=for-the-badge&labelColor=0D1117" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Ank1t0327?label=FOLLOWERS&style=for-the-badge&color=00FF99&labelColor=0D1117" alt="Followers"/>
 
 </div>
 
@@ -107,6 +109,25 @@ I also break down tools, Linux internals, and security concepts on my YouTube ch
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ank1t0327&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=C9D1D9" alt="Top Languages" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ank1t0327&theme=algolia&no-frame=true&column=4&margin-w=8&margin-h=8&title=Commits,Stars,PullRequest,Repositories" alt="Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ank1t0327&theme=react-dark&bg_color=0D1117&color=00FF99&line=00FF99&point=C9D1D9&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ank1t0327/Ank1t0327/output/github-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+  <br/><sub><i>Snake animation requires the one-time GitHub Action setup below ⬇</i></sub>
+</div>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800" />
 </div>
@@ -146,3 +167,5 @@ certifications:
 <div align="center">
   <p><sub><i>EOF - Connection Terminated</i></sub></p>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:0D1117&height=100&section=footer" width="100%"/>
