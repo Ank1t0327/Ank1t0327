@@ -97,14 +97,14 @@ I also break down tools, Linux internals, and security concepts on my YouTube ch
 ## ▒▓█ GITHUB_ANALYTICS █▓▒
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ank1t0327&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=C9D1D9" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Ank1t0327&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakNum=C9D1D9" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Ank1t0327&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=C9D1D9" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Ank1t0327&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakNum=C9D1D9" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ank1t0327&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ank1t0327&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=C9D1D9" alt="Top Languages" />
 </div>
 
 <div align="center">
