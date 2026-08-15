@@ -27,9 +27,8 @@ root@cyber-lab:~# cat /etc/profile/patch.txt
 [+] Modus Operandi: Building projects to learn deeply rather than just collecting certificates.
 [+] Goal: Become an elite cybersecurity engineer and builder.
 ```
-I am a builder at heart and a breaker by trade. My focus lies at the intersection of offensive security, automation, and full-stack development. I create personal projects ranging from recon and log-analysis tooling to full desktop and web applications, constantly pushing the boundaries of my technical capabilities.
+I am a builder at heart and a breaker by trade. My focus lies at the intersection of offensive security, automation, and development. I create personal projects ranging from recon and log-analysis tooling to full desktop and web applications, constantly pushing the boundaries of my technical capabilities.
 
-I also break down tools, Linux internals, and security concepts on my YouTube channel, **[PatchSec](https://www.youtube.com/@PatchSec)**.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800" />
