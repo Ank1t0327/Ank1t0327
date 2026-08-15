@@ -66,7 +66,6 @@ I also break down tools, Linux internals, and security concepts on my YouTube ch
 | :---: | :--- | :--- |
 | 🔭 | **Active Projects** | Engineering **VulnRank** (recon scoring engine), **Mirrorix** (Linux phone-mirroring tool), and **LogGazer** (log analysis / threat monitoring). |
 | 📜 | **Certifications** | Studying concurrently for **ISC2 Certified in Cybersecurity (CC)** and **CompTIA Security+ (SY0-701)**. |
-| 🎥 | **Content** | Producing cybersecurity education videos for **PatchSec** on YouTube. |
 | 🌱 | **Learning Goals** | Advanced Web Exploitation, AI Security integration, and Kernel-level interactions. |
 | 🔬 | **Research** | Exploring automated vulnerability discovery and modern evasion techniques. |
 
